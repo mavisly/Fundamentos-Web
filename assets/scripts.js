@@ -12,6 +12,7 @@ let assuntoOK = false
 
 let mapa = document.querySelector("#mapa")
 
+
 nome.style.width = "100%";
 email.style.width = "100%";
 
